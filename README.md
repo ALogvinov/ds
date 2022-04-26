@@ -7,4 +7,5 @@
 - [Анализ истории продажи игр и выработка рекомендаций для маркетологов](https://github.com/ALogvinov/ds/blob/2fbf624fa51aa3646e8097080ea92533de884d7e/Gaming%20platforms%20analysis)
 - [Классификация клиентов телеком компании и рекомендация тарифа](https://github.com/ALogvinov/ds/blob/3ddc4052b3c30de8dc241aa4d2384ba7ccf53720/Client%20classification%20telecom)
 - [Прогнозирование оттока клиента Банка](https://github.com/ALogvinov/ds/blob/cad33bd2d9e6a785b317d2e45cfb324d3cf6eb86/Forecasting%20the%20Bank's%20customer%20churn)
-- [Определение наиболее выгодного региона нефтедобычи]()
+- [Определение наиболее выгодного региона нефтедобычи](https://github.com/ALogvinov/ds/blob/6a96c95f4e7dfe3e1ce061c238e39632b57c0574/Best%20oil%20production%20region)
+- [Исследование технологического процесса очистки золота]()
