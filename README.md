@@ -4,4 +4,4 @@
 - [Исследование надёжности заёмщиков — анализ банковских данных](https://github.com/ALogvinov/ds/blob/17442bdff7651e61b3056c95749edc849d661e08/Bank%20borrower%20reliability%20analytics)
 - [Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости](https://github.com/ALogvinov/ds/blob/17442bdff7651e61b3056c95749edc849d661e08/SanktPeterburg%20apartment%20sales%20analysis)
 - [Определение выгодного тарифа для телеком компании](https://github.com/ALogvinov/ds/blob/17442bdff7651e61b3056c95749edc849d661e08/Best%20mobile%20tariff)
-- [Анализ истории продажи игр и выработка рекомендаций по разработке новых](https://github.com/ALogvinov/ds/blob/2fbf624fa51aa3646e8097080ea92533de884d7e/Gaming%20platforms%20analysis)
+- [Анализ истории продажи игр и выработка рекомендаций для маркетологов](https://github.com/ALogvinov/ds/blob/2fbf624fa51aa3646e8097080ea92533de884d7e/Gaming%20platforms%20analysis)
