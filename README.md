@@ -10,3 +10,4 @@
 - [Определение наиболее выгодного региона нефтедобычи](https://github.com/ALogvinov/ds/blob/6a96c95f4e7dfe3e1ce061c238e39632b57c0574/Best%20oil%20production%20region)
 - [Исследование технологического процесса очистки золота](https://github.com/ALogvinov/ds/blob/cebccb36818b0da3387df33a56e65fb18c07c5e6/Gold%20refining%20process)
 - [Построение модели определения стоимости автомобиля](https://github.com/ALogvinov/ds/tree/main/Car%20price)
+- [Прогнозирование количества заказов такси на следующий час]()
