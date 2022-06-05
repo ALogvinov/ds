@@ -11,4 +11,4 @@
 - [Исследование технологического процесса очистки золота](https://github.com/ALogvinov/ds/blob/cebccb36818b0da3387df33a5w6e65fb18c07c5e6/Gold%20refining%20process)
 - [Построение модели определения стоимости автомобиля](https://github.com/ALogvinov/ds/tree/main/Car%20price)
 - [Прогнозирование количества заказов такси на следующий час](https://github.com/ALogvinov/ds/blob/main/Forecasting%20Taxi%20Orders/model.ipynb)
-- [Обучение модели классификации комментариев]( )
+- [Обучение модели классификации комментариев](https://github.com/ALogvinov/ds/tree/main/Wikishop)
