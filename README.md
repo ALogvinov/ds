@@ -8,6 +8,7 @@
 - [Классификация клиентов телеком компании и рекомендация тарифа](https://github.com/ALogvinov/ds/blob/3ddc4052b3c30de8dc241aa4d2384ba7ccf53720/Client%20classification%20telecom)
 - [Прогнозирование оттока клиента Банка](https://github.com/ALogvinov/ds/blob/cad33bd2d9e6a785b317d2e45cfb324d3cf6eb86/Forecasting%20the%20Bank's%20customer%20churn)
 - [Определение наиболее выгодного региона нефтедобычи](https://github.com/ALogvinov/ds/blob/6a96c95f4e7dfe3e1ce061c238e39632b57c0574/Best%20oil%20production%20region)
-- [Исследование технологического процесса очистки золота](https://github.com/ALogvinov/ds/blob/cebccb36818b0da3387df33a56e65fb18c07c5e6/Gold%20refining%20process)
+- [Исследование технологического процесса очистки золота](https://github.com/ALogvinov/ds/blob/cebccb36818b0da3387df33a5w6e65fb18c07c5e6/Gold%20refining%20process)
 - [Построение модели определения стоимости автомобиля](https://github.com/ALogvinov/ds/tree/main/Car%20price)
 - [Прогнозирование количества заказов такси на следующий час](https://github.com/ALogvinov/ds/blob/main/Forecasting%20Taxi%20Orders/model.ipynb)
+- [Обучение модели классификации комментариев]()
