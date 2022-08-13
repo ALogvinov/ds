@@ -12,5 +12,5 @@
 - [Построение модели определения стоимости автомобиля](https://github.com/ALogvinov/ds/tree/main/Car%20price)
 - [Прогнозирование количества заказов такси на следующий час](https://github.com/ALogvinov/ds/blob/main/Forecasting%20Taxi%20Orders/model.ipynb)
 - [Обучение модели классификации комментариев](https://github.com/ALogvinov/ds/tree/main/Wikishop)
-- [Предсказание потребления воды и электроэнергии зданий]()
-- [Предсказание ухода клиента]()
+- [Предсказание потребления воды и электроэнергии зданий](https://github.com/ALogvinov/ds/tree/main/Building%20Energy%20Prediction)
+- [Предсказание ухода клиента](https://github.com/ALogvinov/ds/tree/main/Customer%20exit%20forecast)
